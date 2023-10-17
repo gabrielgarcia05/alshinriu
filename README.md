@@ -1,2 +1,2 @@
 # alshinriu
-/alshinriu/escaperoom/index.html
+https://gabrielgarcia05.github.io/alshinriu/escaperoom/index.html
